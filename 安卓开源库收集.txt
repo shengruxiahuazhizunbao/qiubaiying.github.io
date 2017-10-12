@@ -1,1 +1,5 @@
 1.https://github.com/UFreedom/FloatingView
+Android 实现WebView点击图片查看大图列表及图片保存功能：http://www.jb51.net/article/106272.htm
+获取所有网页的图片集合方式：1.服务器端直接将WebView中所有的图片按照顺序组合成String数组传递过来；2.或者直接将所有含img标签的html代码传递过来，从而让客户端自己解析出所有图片地址组合成的String数组。（此处是采用的第二种，具体如何解析，可以下载源码查看。）
+
+
